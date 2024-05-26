@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+p {
+  font-family: Lato;
+}
+
+pre {
+  font-size: 1rem;
+  white-space: pre;
+}
